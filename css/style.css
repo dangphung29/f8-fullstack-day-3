@@ -42,6 +42,9 @@ input {
     font-size: 20px;
 }
 
+.header .nav a:hover {
+    color: #17678a;
+}
 
 .header .nav ul {
     display: flex;
